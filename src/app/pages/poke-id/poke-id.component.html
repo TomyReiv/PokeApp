@@ -1,0 +1,18 @@
+<div *ngIf="pokemonName">
+  <h1>{{ pokemonName | titlecase}}</h1>
+  <div class="main__pokeId">
+    <div>
+       <img [src]="pokemonImage" alt="{{ pokemonName }}" />
+       <p class="desc">{{ descriptionES }}</p>
+    <div *ngFor="let type of pokemonType">
+      <p [ngClass]="getTypeClass(type.type?.name!)" class="type">
+        {{ type.type?.name | titlecase }}
+      </p>
+    </div>
+    </div>
+   
+    <ul>
+      <li *ngFor="let move of pokemonMoves">{{ move.move.name | titlecase }}</li>
+    </ul>
+  </div>
+</div>

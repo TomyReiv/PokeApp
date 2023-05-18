@@ -1,0 +1,135 @@
+{
+  "Azul y Rojo": {
+    "image": "../../../assets/poke1.webp",
+    "image2": "../../../assets/poke2.webp",
+    "texto": "Pokémon Red and Pokémon Blue",
+    "date": "Año de lanzamiento: 1998 (Norteamérica)",
+    "Plataforma": "Plataforma: Game Boy"
+  },
+  "Amarillo": {
+    "image": "../../../assets/poke3.webp",
+    "image2": "../../../assets/poke3.webp",
+    "texto": "Pokémon Yellow",
+    "date": "Año de lanzamiento: 1998 (Japón)",
+    "Plataforma": "Plataforma: Game Boy"
+  },
+  "Oro y Plata": {
+    "image": "../../../assets/poke4.webp",
+    "image2": "../../../assets/poke5.webp",
+    "texto": "Pokémon Gold and Pokémon Silver",
+    "date": "Año de lanzamiento: 1999 (Japón)",
+    "Plataforma": "Plataforma: Game Boy Color"
+  },
+  "Cristal": {
+    "image": "../../../assets/poke6.webp",
+    "image2": "../../../assets/poke6.webp",
+    "texto": "Pokémon Crystal",
+    "date": "Año de lanzamiento: 2000 (Japón)",
+    "Plataforma": "Plataforma: Game Boy Color"
+  },
+  "Rubi y Zafiro": {
+    "image": "../../../assets/poke7.webp",
+    "image2": "../../../assets/poke8.webp",
+    "texto": "Pokémon Ruby and Pokémon Sapphire",
+    "date": "Año de lanzamiento: 2002 (Japón)",
+    "Plataforma": "Plataforma: Game Boy Advance"
+  },
+  "Esmeralda": {
+    "image": "../../../assets/poke9.webp",
+    "image2": "../../../assets/poke9.webp",
+    "texto": "Pokémon Emerald",
+    "date": "Año de lanzamiento: 2004 (Japón)",
+    "Plataforma": "Plataforma: Game Boy Advance"
+  },
+  "Rojo fuego y verde hoja": {
+    "image": "../../../assets/poke10.webp",
+    "image2": "../../../assets/poke11.webp",
+    "texto": "Pokémon FireRed and Pokémon LeafGreen",
+    "date": "Año de lanzamiento: 2004 (Japón)",
+    "Plataforma": "Plataforma: Game Boy Advance"
+  },
+  "Diamante y Perla": {
+    "image": "../../../assets/poke12.webp",
+    "image2": "../../../assets/poke13.webp",
+    "texto": "Pokémon Diamond and Pokémon Pearl",
+    "date": "Año de lanzamiento: 2006 (Japón)",
+    "Plataforma": "Plataforma: Nintendo DS"
+  },
+  "Platino": {
+    "image": "../../../assets/poke14.webp",
+    "image2": "../../../assets/poke14.webp",
+    "texto": "Pokémon Platinum",
+    "date": "Año de lanzamiento: 2008 (Japón)",
+    "Plataforma": "Plataforma: Nintendo DS"
+  },
+  "HeartGold y SoulSilver": {
+    "image": "../../../assets/poke15.webp",
+    "image2": "../../../assets/poke16.webp",
+    "texto": "Pokémon HeartGold and Pokémon SoulSilver",
+    "date": "Año de lanzamiento: 2009 (Japón)",
+    "Plataforma": "Plataforma: Nintendo DS"
+  },
+  "Blanco y Negro": {
+    "image": "../../../assets/poke17.webp",
+    "image2": "../../../assets/poke18.webp",
+    "texto": "Pokémon Black and Pokémon White",
+    "date": "Año de lanzamiento: 2010 (Japón)",
+    "Plataforma": "Plataforma: Nintendo DS"
+  },
+  "Blanco2 y Negro2": {
+    "image": "../../../assets/poke19.webp",
+    "image2": "../../../assets/poke20.webp",
+    "texto": "Pokémon Black2 and Pokémon White2",
+    "date": "Año de lanzamiento: 2012 (Japón)",
+    "Plataforma": "Plataforma: Nintendo DS"
+  },
+  "X y Y": {
+    "image": "../../../assets/poke21.webp",
+    "image2": "../../../assets/poke22.webp",
+    "texto": "Pokémon X and Pokémon Y",
+    "date": "Año de lanzamiento: 2013 (Japón)",
+    "Plataforma": "Plataforma: Nintendo 3DS"
+  },
+  "Omega Ruby y Alpha Sapphire": {
+    "image": "../../../assets/poke23.webp",
+    "image2": "../../../assets/poke24.webp",
+    "texto": "Pokémon Omega Ruby and Pokémon Alpha Sapphire",
+    "date": "Año de lanzamiento: 2014 (Japón)",
+    "Plataforma": "Plataforma: Nintendo 3DS"
+  },
+  "Sol y Luna": {
+    "image": "../../../assets/poke25.webp",
+    "image2": "../../../assets/poke26.webp",
+    "texto": "Pokémon Sun and Pokémon Moon",
+    "date": "Año de lanzamiento: 2016 (Japón)",
+    "Plataforma": "Plataforma: Nintendo 3DS"
+  },
+  "UltraSol y UltraLuna": {
+    "image": "../../../assets/poke27.webp",
+    "image2": "../../../assets/poke28.webp",
+    "texto": "Pokémon Ultra Sun and Pokémon Ultra Moon",
+    "date": "Año de lanzamiento: 2017 (Japón)",
+    "Plataforma": "Plataforma: Nintendo 3DS"
+  },
+  "Pikachu y Eevee": {
+    "image": "../../../assets/poke29.webp",
+    "image2": "../../../assets/poke30.webp",
+    "texto": "Pokémon: Let's Go, Pikachu! y Pokémon: Let's Go, Eevee!",
+    "date": "Año de lanzamiento: 2018 (Japón)",
+    "Plataforma": "Plataforma: Nintendo Switch"
+  },
+  "Espada y Escudo": {
+    "image": "../../../assets/poke31.webp",
+    "image2": "../../../assets/poke32.webp",
+    "texto": "Pokémon Sword and Pokémon Shield",
+    "date": "Año de lanzamiento: 2019 (Japón)",
+    "Plataforma": "Plataforma: Nintendo Switch"
+  },
+  "Escarlata y Purpura": {
+    "image": "../../../assets/poke31.webp",
+    "image2": "../../../assets/poke32.webp",
+    "texto": "Pokémon Scarlet and Pokémon Violet",
+    "date": "Año de lanzamiento: 2022 (Japón)",
+    "Plataforma": "Plataforma: Nintendo Switch"
+  }
+}

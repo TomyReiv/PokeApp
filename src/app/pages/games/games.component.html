@@ -1,0 +1,17 @@
+<div class="main__games">
+  <div *ngFor="let item of games | keyvalue" class="game__container">
+    <h1> {{item.key}} </h1>
+    <div class="data__container">
+        <div>
+      <img [src]="[item.value.image]" alt="item.value.texto"/>
+      <img [src]="[item.value.image2]" alt="item.value.texto"/>
+    </div>
+    <div>
+      <p>{{ item.value.texto }}</p>
+      <p>{{ item.value.date }}</p>
+      <p>{{ item.value.Plataforma }}</p>
+    </div>
+    </div>
+    
+  </div>
+</div>

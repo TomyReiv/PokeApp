@@ -1,0 +1,24 @@
+<div class="main__pokedex">
+  <mat-card class="example-card" *ngFor="let pokemon of pokemons">
+    <mat-card-header *ngIf="pokemonInfo[pokemon.name!]">
+      <div mat-card-avatar class="example-header-image"></div>
+      <mat-card-title> {{ pokemon.name | titlecase }} </mat-card-title>
+      <mat-card-subtitle>
+        {{ pokemonInfo[pokemon.name!].id }}
+      </mat-card-subtitle>
+    </mat-card-header>
+    <img
+      *ngIf="pokemonInfo[pokemon.name!]"
+      routerLink="/pages/poke/{{pokemonInfo[pokemon.name!].id}}"
+      loading="lazy"
+      mat-card-image
+      [src]="pokemonInfo[pokemon.name!].sprites!.front_default"
+      alt="{{ pokemon.name }}"
+    />
+    <mat-card-content *ngFor="let type of pokemonInfo[pokemon.name!]?.types">
+      <p [ngClass]="getTypeClass(type.type?.name!)">
+        {{ type.type?.name | titlecase }}
+      </p>
+    </mat-card-content>
+  </mat-card>
+</div>

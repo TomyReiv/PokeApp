@@ -1,0 +1,21 @@
+.game__container{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 1rem;
+    background-color: brown;
+    border: 1px solid rgb(25, 2, 226);
+    border-radius: 5px;
+    padding: 1rem;
+}
+.data__container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+h1{
+    text-align: center;
+    color: yellow;
+}
+p{
+    text-align: center;
+    color: yellow;
+}

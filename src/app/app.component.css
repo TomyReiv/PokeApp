@@ -1,0 +1,41 @@
+.example-container {
+    width: 100%;
+    height: 100%;
+    margin: 10px;
+    background-color: aliceblue;
+    color: black;
+  }
+
+.main__fondo{
+  background-image: url('../assets/pokeinicial.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+  .sidebar{
+    width: 20%;
+    background-color: brown;
+    color: aliceblue;
+  }
+
+  .button__closer{
+    display: none;
+  }
+
+  @media only screen and (max-width: 767px) {
+    .sidebar{
+      width: 70%;
+    }
+    .button__closer{
+      display: block;
+      width: 2rem;
+      height: 2rem;
+      cursor: pointer;
+    }
+  }
+
+  @media only screen and (min-width: 768px) and (max-width: 1024px){
+    .sidebar{
+      width: 30%;
+    }
+  }
